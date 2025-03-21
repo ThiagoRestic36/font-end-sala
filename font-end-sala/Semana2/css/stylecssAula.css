@@ -1,0 +1,25 @@
+
+/* mudar cor, fonte e tamanho da letra */
+h1{
+    color:black; font-size: 50px;
+}
+
+h2 a{
+    color: greenyellow; font-size: 20px;
+}
+
+h3 a{
+    color:red; font-size: 20px;
+}
+
+h4 a{
+    color:purple; font-size: 20px;
+}
+
+li a{
+    text-decoration: none;
+}
+
+ul{
+    text-align: center;
+}
